@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'NoteDBApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F44262D93E7E4E6F850ADE41CEE70445 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CAC976B3F18E4AB9AFCE6A094D7C822D }}
           package: .
