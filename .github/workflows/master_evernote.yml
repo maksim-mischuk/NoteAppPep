@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Evernote'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_25CAD008A08B44D7AE9E7381BFD30166 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4397B717209F4FA48A3E21F2A0429040 }}
           package: .
